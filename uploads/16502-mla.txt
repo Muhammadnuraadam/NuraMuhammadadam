@@ -1,0 +1,591 @@
+MLA citation style · Concordia University Library http://library.concordia.ca/help/citing/mla.php 
+
+
+Ask a Librarian 
+
+
+Log into ... 
+
+Concordia.ca / Library / Help & how-to / Citing 
+
+« Back | Print 
+
+MLA citation style 
+
+
+On this page 
+
+Introduction 
+Updates from the new edition 
+
+In-text citations 
+
+General guidelines 
+Multiple authors or no author 
+Audiovisual resources 
+Indirect quotations 
+
+Long quotations 
+
+
+Works cited 
+
+General guidelines 
+
+Two or more works by the same 
+creator 
+Book with 1 author 
+Book with 2 authors 
+Book with 3 or more authors 
+Anthology or compilation 
+Work in an anthology or an 
+
+essay in a book 
+Book by a corporate author 
+Article in a reference book or an 
+
+entry in an encyclopedia 
+Translation 
+
+
+This guide provides a basic introduction to the MLA citation style. It is 
+based on the 8th edition of the MLA Handbook published by the Modern 
+Language Association in 2016. This is a new edition of the book, and 
+there are several significant changes to MLA style. 
+
+The MLA Handbook is generally used for academic writing in the 
+humanities. The handbook itself covers many aspects of research 
+writing including evaluating sources, the mechanics of writing, the format 
+of the research paper, plagiarism, as well as the way to cite sources. 
+
+This guide provides basic explanations and examples for the most 
+common types of citations used by students. For additional information 
+and examples, refer to the MLA Handbook. 
+
+
+Abbreviations: in previous editions, certain abbreviations could be 
+used (e.g. “ed.” for “editor”, “trans.” for “translated by”). Based on 
+the new edition, these words should be spelled out fully (see Works 
+cited -a translation). Note: it is still recommended that you 
+abbreviate months with four or more letters (e.g. “September” is 
+written as “Sept.”). 
+Multiple authors: previously, if a work had one, two, or three 
+authors, all the names would be listed. Now, each author is listed 
+only if a work has one or two authors (see In-text citations -Multiple 
+authors or no authors for examples) 
+In works cited entries, the city of publication and medium of 
+publication (e.g. Print, Web) are no longer required. 
+In works cited entries, the volume and issue number of journal 
+articles used to be represented as follows: vol#(issue#) [e.g. 3(2)]. 
+However, now they are represented as vol. #, no. # (e.g. vol. 3, no. 
+2). 
+For sources you find online, include a URL or doi. If possible, use a 
+permanent link or a doi. Do not use URL shorteners (e.g. bit.ly, 
+goo.gl) as these are unstable and your reader may not be able to 
+1 of 15 9/7/2016 2:45 PM 
+
+
+MLA citation style · Concordia University Library http://library.concordia.ca/help/citing/mla.php 
+
+access these sites in the future. 
+
+Book in a series 
+
+Article in a journal 
+
+Article in a newspaper or 
+magazine 
+An entire website 
+A page on a website 
+Social media posts 
+Emails 
+Sound recording 
+YouTube video 
+Film, videorecording or DVD 
+Television or radio program 
+Untitled sources 
+
+
+With in-text citations, you acknowledge a source by providing a brief 
+reference to exactly where in the source you found the information. The 
+reader can then use the complete reference listed in the Works Cited 
+page at the end of your paper to verify what you have written. Further 
+examples and explanations are available in the MLA Handbook. 
+
+
+In most cases, providing the author's last name and a page number 
+is sufficient. Example: 
+In response to rapid metropolitan expansion, urban renewal projects 
+sought "an order in which more significant kinds of conflict, more 
+complex and intellectually stimulating kinds of disharmony, may take 
+place" (Mumford 485). 
+
+
+If you mention the author’s name in your text, only the page 
+reference needs to be inserted in parentheses. Example: 
+According to Postman, broadcast news influences the decision-making 
+process (51-63). 
+
+
+RefWorks 
+How to prepare an annotated 
+bibliography 
+If there are two authors, include the last name of each. Example: 
+(Winks and Kaiser 176) 
+
+
+If there are three or more authors, include the last name of the first 
+author followed by "et al." without any intervening punctuation. 
+Example: 
+(Baldwin et al. 306) 
+
+
+If there is no author, as is the case with some web pages, include 
+either the whole title of the work in the text or use a shortened form 
+of the title in parentheses, using the first words of the title. Italicize 
+the titles of books or entire web sites and place the titles of articles 
+or individual web pages in quotation marks. 
+Example of entire web site: 
+Voice of the Shuttle has many electronic sources. 
+
+
+Example of individual web page: 
+Gophers can have many detrimental effects on lawns, including building 
+
+2 of 15 9/7/2016 2:45 PM 
+
+
+MLA citation style · Concordia University Library http://library.concordia.ca/help/citing/mla.php 
+
+underground tunnels, eating plants, and disturbing root systems 
+(“Gophers”). 
+
+
+If your source has no page numbers, but has labelled section or 
+paragraph numbers, you can indicate these numbers in your 
+parenthetical reference. If there are no such reference marks, do 
+not create or include them in your reference. 
+Example where paragraph or section numbers are available: 
+Winston argues that "Rourke has lowered his defenses" (par. 29). 
+
+
+Example where no paragraph or section numbers are available: 
+The Lincoln administration was against secession, as it would “create a 
+fatal precedent that would eventually fragment the no-longer United 
+States into several small, squabbling countries” (McPherson). 
+
+
+Audiovisual recordings such as videos and songs do not have page 
+numbers to be included in in-text citations. For such time-based media, 
+you should include the time or range of times for any segment you are 
+quoting or discussing. 
+
+Example: 
+
+Near the beginning of the film, a woman tells Johnnie that Lina is “a very 
+carefully brought-up young lady” (Suspicion 4:50). 
+
+
+When citing a quotation which is cited in another source, indicate 
+the source you actually consulted in your parenthetical reference 
+and in your works cited. Use the abbreviation qtd. in to indicate that 
+the information has been quoted in another source. 
+Example: 
+Landow admitted that there was "work to be done" (qtd. in Rogers 333). 
+
+
+If you are quoting text that is longer than four typed lines in your paper, 
+block indent the passage half an inch (1.27 cm) from the left margin. Do 
+not surround the quotation with quotation marks. The parenthetical 
+reference follows the final punctuation. 
+
+3 of 15 9/7/2016 2:45 PM 
+
+
+MLA citation style · Concordia University Library http://library.concordia.ca/help/citing/mla.php 
+
+Example: 
+
+Anderson argues that all nations can be measured: 
+
+The nation is imagined as limited because even 
+the largest of them, encompassing perhaps a 
+billion living human beings, has finite, if elastic, 
+boundaries, beyond which lie other nations. No 
+nation imagines itself coterminous with mankind. 
+The most messianic nationalists do not dream of 
+a day when all the members of the human race 
+will join their nation in the way that it was 
+possible, in certain epochs, for, say, Christians to 
+dream of a wholly Christian planet. (7) 
+
+
+The alphabetical list of works cited that appears at the end of your paper 
+contains more information about all of the sources you've cited, allowing 
+readers to refer to them, as needed. The main characteristics are: 
+
+
+The list of Works Cited must be on a new page at the end of your 
+text 
+Entries are arranged alphabetically by the author's last name or by 
+the title if there is no author 
+Titles of books are italicized and titles of articles are placed in 
+quotation marks. All important words should be capitalized 
+Entries are double-spaced (for the purposes of this page, single-
+spacing is used) 
+For online sources, date of access is an optional element. However, 
+it can be helpful to include this information, especially if the source 
+you are using does not have a date of publication 
+Begin by arranging the creator’s works in alphabetical order. Create a 
+full entry for the first work in the list (following the instructions below). 
+For the other work(s), replace the creator’s name by three hyphens and 
+
+4 of 15 9/7/2016 2:45 PM 
+
+
+MLA citation style · Concordia University Library http://library.concordia.ca/help/citing/mla.php 
+
+arrange alphabetically by the work’s title. 
+Example: 
+
+Postman, Neil. Amusing Ourselves to Death: Public 
+Discourse in the Age of Show Business. Viking, 1985. 
+---. The Disappearance of Childhood. Vintage, 1994. 
+
+
+Last Name, First Name. Title. Publisher, Year of Publication. 
+
+Example: 
+Mumford, Lewis. The Culture of Cities. Harcourt, 1938. 
+
+
+First Author’s Last Name, First Author’s First Name, and 
+Second Author’s First and Last Names. Title. Publisher, 
+Year of Publication. 
+
+Example: 
+
+Ormerod, Neil, and Christiaan Jacobs-Vandegeer. 
+Foundational Theology. Fortress Press, 2015. 
+
+
+
+5 of 15 9/7/2016 2:45 PM 
+
+
+MLA citation style · Concordia University Library http://library.concordia.ca/help/citing/mla.php 
+
+First Author’s Last Name, First Author’s First Name, et al. 
+Title. Publisher, Year of Publication. 
+
+Note: these rules regarding the listing of authors also apply to other 
+kinds of sources (e.g. journal articles). 
+
+Example: 
+
+Francis, R. Douglas, et al. Destinies: Canadian History since 
+Confederation. Harcourt, 2000. 
+
+
+Include the word “editor” after the editor’s name. 
+Example: 
+
+Abate, Corinne S., editor. Privacy, Domesticity, and Women in 
+Early Modern England. Ashgate, 2003. 
+
+
+Last Name, First Name. “Work Title.” Book Title, edited by 
+Editor Name, Publisher, Year, pp. <page range>. 
+
+Example: 
+
+6 of 15 9/7/2016 2:45 PM 
+
+
+MLA citation style · Concordia University Library http://library.concordia.ca/help/citing/mla.php 
+
+Naremore, James. "Hitchcock at the Margins of Noir." Alfred 
+Hitchcock: Centenary Essays, edited by Richard Allen and 
+
+S. Ishii-Gonzalès, BFI, 1999, pp. 263-77. 
+Associations, corporations, agencies and organizations are 
+considered authors when there is no single author. 
+
+Example: 
+
+Organisation for Economic Co-operation and Development. 
+
+Action against Climate Change: The Kyoto Protocol and 
+Beyond. OECD, 1999. 
+
+
+If the article/entry is signed, include the author's name; if unsigned, 
+begin with the title of the entry. 
+
+Example of a signed article: 
+
+Guignon, Charles B. "Existentialism." Routledge 
+Encyclopedia of Philosophy, edited by Edward Craig. 
+Routledge, 1998. 
+
+Example of an unsigned article: 
+
+7 of 15 9/7/2016 2:45 PM 
+
+
+MLA citation style · Concordia University Library http://library.concordia.ca/help/citing/mla.php 
+
+“Niagara Falls.” Encyclopaedia Britannica. Encyclopaedia 
+Britannica, Inc., 2016. 
+
+
+The translator’s name follows the title of the work. 
+Example: 
+
+Murakami, Haruki. 1Q84. Translated by Jay Rubin and Philip 
+Gabriel, Alfred A. Knopf, 2011. 
+
+
+Optionally, you may include the series title at the end of the citation, 
+followed by the number in the series if applicable. 
+Example: 
+
+
+Bloom, Harold, editor. André Malraux. Chelsea House, 1988. 
+Modern Critical Views. 
+
+
+Last Name, First Name. “Article Title.” Title of Journal, vol. #, 
+no. #, Month/Season Year, pp. <page range>. 
+
+Example: 
+
+8 of 15 9/7/2016 2:45 PM 
+
+
+MLA citation style · Concordia University Library http://library.concordia.ca/help/citing/mla.php 
+
+Ferrer, Ada. "Cuba 1898: Rethinking Race, Nation, and 
+Empire." Radical History Review, vol. 73, Winter 1999, pp. 
+22-49. 
+
+NOTE – If an article is not printed on consecutive pages, record the first 
+page number followed by a plus sign. If there are no page numbers, 
+leave the field blank. 
+
+Example of article with non-consecutive page numbers: 
+
+Mack, Candice. “From the President.” Young Adult Library 
+Services, vol. 14, no. 2, Winter 2016, pp. 3+. 
+
+Example of article with no page numbers: 
+
+Sehmby, Dalbir S. "Wrestling and Popular Culture." CCLWeb: 
+Comparative Literature and Culture, vol. 4, no. 1, March 
+2002. 
+
+Article retrieved from a library database: 
+
+Provide the same information as you would for a printed journal article 
+and add the name of the database in italics, and include the URL or doi 
+to the article. 
+
+Example: 
+
+Wolfensberger, Donald R. “Happy Together?” The Wilson 
+Quarterly, vol. 33, no. 1, Winter 2009, pp. 63-66. JSTOR, 
+jstor.org/stable/40262243. 
+
+Example with date of access (optional element): 
+
+9 of 15 9/7/2016 2:45 PM 
+
+
+MLA citation style · Concordia University Library http://library.concordia.ca/help/citing/mla.php 
+
+Heming, Li, Paul Waley, and Phil Rees. "Reservoir 
+Resettlement in China: Past Experience and the Three 
+Gorges Dam." The Geographical Journal, vol. 167, no. 3, 
+Sept. 2001, pp. 195-212. Wiley-Blackwell Journals, DOI: 
+10.1111/1475-4959.00018. Accessed 29 Mar. 2014. 
+
+
+Last Name, First Name. “Article Title.” Title of Newspaper or 
+Magazine, Date, <page range>. 
+
+Examples: 
+
+Semenak, Susan. "Feeling Right at Home: Government 
+Residence Eschews Traditional Rules." Montreal Gazette, 
+28 Dec. 1995, A4. 
+
+Driedger, Sharon Doyle. "After Divorce." Maclean's, 20 Apr. 
+1998, pp. 38-43. 
+
+For newspaper and magazine articles retrieved online, please see 
+examples for journal articles retrieved from a library database. 
+
+
+Last Name, First Name. Title of Website. Date, URL. 
+
+Example: 
+
+10 of 15 9/7/2016 2:45 PM 
+
+
+MLA citation style · Concordia University Library http://library.concordia.ca/help/citing/mla.php 
+
+Linder, Douglas O. Famous Trials. 2009, 
+law2.umkc.edu/faculty/projects/ftrials/ftrials.htm. 
+
+
+An entry for a nonperiodical item found on the Web contains the 
+following: 
+
+Last Name, First Name. "Document Title if Available." Title of 
+the Overall Web site, Date, URL. 
+
+If you cannot find some of this information, include only what is 
+available. Example (including optional date of access): 
+
+"Joyce Wieland." Celebrating Women's Achievements: 
+Women Artists in Canada, 2000, 
+collectionscanada.gc.ca/women/030001-1173-e.html. 
+Accessed 29 Mar. 2004. 
+
+
+If the author’s name begins with “@”, disregard it when alphabetizing 
+your Works Cited list. Instead, begin with the character immediately 
+following it. 
+
+Author. “Full text of post.” Name of Social Media Website, 
+
+Date, Time, URL. 
+
+Twitter example: 
+
+11 of 15 9/7/2016 2:45 PM 
+
+
+MLA citation style · Concordia University Library http://library.concordia.ca/help/citing/mla.php 
+
+@jk_rowling. “God, I hate this stuff. I’ve winged it my whole 
+life. I’ve messed up regularly. There are no rules. Do your 
+thing.” Twitter, 12 June 2016, 10:03 a.m., 
+twitter.com/jk_rowling/status/742039536688107520. 
+
+Instagram example: 
+
+@montreal. “Doux lundi // Peaceful Monday Photo par / by 
+
+@susanmossphotography #MTLmoments #MTL 
+#montreal.” Instagram, 13 June 2016, 5:40 a.m., 
+instagram.com/p/BGmFK7Ny9TF/?hl=en. 
+
+
+Author of email. “Subject.” Received by Recipient Name, 
+Date. 
+
+Example: 
+
+Bélanger, Suzanne. “Travaux de Construction.” Received by 
+Ravi Vishnaj, 9 Feb. 2016. 
+
+
+Last Name, First Name. “Title of Track.” Album Title, Record 
+Label, Year. 
+
+Example: 
+
+12 of 15 9/7/2016 2:45 PM 
+
+
+MLA citation style · Concordia University Library http://library.concordia.ca/help/citing/mla.php 
+
+Ellington, Duke. "Black and Tan Fantasy." Music is My 
+Mistress, Musicmasters, 1989. 
+
+If the recording was obtained online, include a link to the website. 
+Example: 
+
+Jonas, Nick, and Tove Lo. “Close.” Last Year Was 
+Complicated, Island and Safehouse, 2016. 
+listen.tidal.com/track/61554644. 
+
+
+
+“Title of Video.” Video Hosting Service, uploaded by Uploader 
+name, date of upload, URL. 
+
+Example: 
+
+“Ken Burns & Henry Louis Gates, Jr. in Conversation with 
+Michel Martin.” YouTube, uploaded by BAMorg, 18 Mar. 
+2016, youtube.com/watch?v=42OlCnuXN0A. 
+
+
+The format of your citations depends on the focus of your work. If you 
+want to emphasize the role of a particular contributor (such as a director, 
+performer, or writer), list the person’s name first, followed by their role, 
+then the title of the film. Otherwise, you can start with the title of the film. 
+
+Example where the film title is listed first: 
+
+13 of 15 9/7/2016 2:45 PM 
+
+
+MLA citation style · Concordia University Library http://library.concordia.ca/help/citing/mla.php 
+
+The Shining. Directed by Stanley Kubrick, performances by 
+Jack Nicholson and Shelley Duvall, Warner Bros., 1980. 
+
+Example where a contributor is listed first: 
+
+Nair, Mira, director. Monsoon Wedding. Performances by 
+Naseeruddin Shah and Lillete Dubey, Mirabai Films, 2001. 
+
+
+As with films, videorecordings and DVDs, elements can be ordered in 
+different ways depending on what you want to emphasize. Here is how 
+citations are structured if no particular contributor is being emphasized: 
+
+“Episode Title.” Program Title, created by Creator Name, 
+performance[s] by Performer Name[s], season #, episode 
+#, Network, Date. 
+
+Example: 
+
+“Blax, Snake, Home.” Happy Endings, created by David 
+Caspe, performance by Elisha Cuthbert, season 2, 
+episode 1, ABC, 28 Sept. 2011. 
+
+
+Example of program obtained from a website (including optional date of 
+access): 
+
+14 of 15 9/7/2016 2:45 PM 
+
+
+MLA citation style · Concordia University Library http://library.concordia.ca/help/citing/mla.php 
+
+“Arianna Huffington.” The Daily Show, created by Lizz 
+Winstead and Madeleine Smithberg, performance by 
+Trevor Noah, season 21, episode 111, Comedy Central, 
+19 May 2016. ctv.ca/TheDailyShow 
+/video.aspx?vid=870157. Accessed 12 June 2016. 
+
+
+This format could apply for items such as artifacts or works of art. 
+Creator. Description. Year/Range of Years, Museum, Place. 
+
+Example: 
+
+Savage & Lyman Co. Brooch and earrings. About 1845, 
+McCord Museum, Montreal. 
+
+page last updated on: Thursday 7 July 2016 
+© Concordia University Terms Privacy Accessibility Feedback 
+
+15 of 15 9/7/2016 2:45 PM 
+
+
